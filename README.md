@@ -2,9 +2,9 @@
 
 此说明文件可能表述欠缺，请谅解。
 
-同时请下载大于等于Microsoft Office (Professional Plus) 2010的Excel。
+请下载大于等于Microsoft Office (Professional Plus) 2010的Excel。
 
-系统要求：Windows 10 1803 x64及以上，均为官方的原版镜像。
+系统要求：Windows 10 1803 x64及以上。
 
 这是一个座位分组应用，基于C++ 和Qt，且仅支持Microsoft Office，不支持WPS。
 
