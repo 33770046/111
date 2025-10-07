@@ -10,5 +10,5 @@
 
 如果代码中有不足的地方，请指出！
 
-Source code 文件夹为源码；Installation 文件夹为安装包、激活工具、Office安装指南和C++的安装包。
+Source code 文件夹为源码；Installation 文件夹为安装包、激活工具、Office安装指南和C++的安装包；green software 文件夹为免安装程序。
 
